@@ -4,6 +4,7 @@
     ViewData["Title"] = "Kancelaria";
 }
 
+
 <div class="jumbotron jumbotron-custom-bg">
     @*<img src="~/img/jumbotron.jpg" alt="Alternate Text" />*@
 
@@ -18,8 +19,8 @@
 
 <div class="row">
     <div class="col-8">
-        <div class="card border-light mb-1">
-            <div class="card-header text-center text-light font-italic display-4 bg-dark">Ignorantia iuris nocet</div>
+        <div class="card border-light">
+            <div class="card-header text-center text-light font-italic h2 bg-dark">Ignorantia iuris nocet</div>
             <div class="card-body">
                 <h5 class="card-title">O mnie</h5>
                 <p class="card-text text-justify mb-5">Moja kancelaria działa od 2004 roku. Zapewniam wszechstronną pomoc prawną zarówno osobom fizycznym, jak i przedsiębiorcom, w zakresie wszystkich dziedzin prawa, począwszy od spraw cywilnych, karnych, rozwodowych, spadkowych, pracowniczych, administracyjnych, w tym reprezentację moich klientów w sądach i urzędach, po kompleksową obsługę prawną przedsiębiorców.</p>
@@ -50,15 +51,16 @@
         <div class="card border-light">
             <div class="card-header text-light bg-dark">Aktualności </div>
             <div class="card-body">
-                <p class="card-text">TEXT</p>
+                <p class="card-text font-weight-bold">@Model.LastNews.Header</p>
+                <p class="card-text">@Model.LastNews.Body</p>
             </div>
         </div>
     </div>
 </div>
 <h4 class="text-center  font-weight-bolder mb-10">
- Zacznij dochodzić swoich praw skutecznie!
- </h4>
-<br/>
-<br/>
+    Zacznij dochodzić swoich praw skutecznie!
+</h4>
+<br />
+<br />
 
 

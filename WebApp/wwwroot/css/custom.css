@@ -12,6 +12,10 @@
     /*width: 100%;*/
 }
 
+.margin-top-xl {
+    margin-top: 80px;
+}
+
 .text-dark {
     color: gray;
 }
@@ -50,4 +54,8 @@
         margin-top: 5%;
     }
     /*1rem = 16px*/
+}
+
+.active {
+    font-weight: bold;
 }

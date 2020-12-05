@@ -4,10 +4,10 @@
 }
 
 
-<div class="row mt-5">
+<div class="row margin-top-xl">
     <div class="col-6">
         <div class="card border-light">
-            <div class="card-header text-light bg-dark"></div>
+            <div class="card-header text-light bg-dark">Oferta</div>
             <div class="card-body">
                 Moje wynagrodzenie uzależnione jest od stopnia zawiłości sprawy, czasochłonności, wartości przedmiotu sprawy.
                 Ustalane jest indywidualnie w drodze umowy z klientem.
@@ -30,8 +30,10 @@
         <div class="card border-light">
             <div class="card-header text-light bg-dark">Aktualności </div>
             <div class="card-body">
-                <p class="card-text">TEXT</p>
+                <p class="card-text font-weight-bold">@Model.LastNews.Header</p>
+                <p class="card-text">@Model.LastNews.Body</p>
             </div>
         </div>
     </div>
 </div>
+

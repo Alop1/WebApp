@@ -9,8 +9,11 @@ namespace WebApp.Pages
 {
     public class OfertaModel : PageModel
     {
+        public News LastNews { get; set; }
         public void OnGet()
         {
+            NewsHandler newsHandler = new NewsHandler();
+            LastNews = newsHandler.GetNews();
         }
     }
 }

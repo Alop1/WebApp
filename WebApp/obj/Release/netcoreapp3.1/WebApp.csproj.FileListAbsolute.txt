@@ -38,3 +38,7 @@ C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\WebApp.dll
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\WebApp.pdb
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\WebApp.genruntimeconfig.cache
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Release\netcoreapp3.1\NewsSource.json
+C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Release\netcoreapp3.1\openHours.json
+C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Release\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
