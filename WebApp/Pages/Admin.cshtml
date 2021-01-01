@@ -1,0 +1,39 @@
+﻿@page "{logout?}"
+@model WebApp.Pages.AdminModel
+@{
+}
+<div class="margin-top-xl">
+    <h3>
+        Aktualności:
+    </h3>
+</div>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="UpdatedNews.Header">Nagłówek(opcjonalnie):</label>
+        <textarea class="form-control" asp-for="UpdatedNews.Header" rows="1"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="UpdatedNews.Body">Treść:</label>
+        <textarea class="form-control" asp-for="UpdatedNews.Body" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-dark mb-2">Opublikuj</button>
+</form>
+
+
+@*<div>
+    <h3>
+        Godziny przyjęć:
+    </h3>
+</div>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="openHours.Days">Dni:</label>
+        <textarea class="form-control"  asp-for="openHours.Days" rows="1" ></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="openHours.Houres" >Godziny:</label>
+        <textarea class="form-control"  asp-for="openHours.Houres" rows="1"></textarea>
+    </div>
+    <button type="submit" class="btn btn-dark mb-2">Opublikuj</button>
+</form>*@
