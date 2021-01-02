@@ -1,6 +1,5 @@
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
@@ -33,7 +32,6 @@ C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genrun
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Kontakt.cshtml.g.cs
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Oferta.cshtml.g.cs
-C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\adwokatlancut - Web Deploy\profile.arm.json
 C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\NewsSource.json
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\openHours.json
@@ -361,3 +359,5 @@ C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApp
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Kacper\source\repos\WebApp\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\Kacper\source\repos\WebApp\WebApp\bin\Debug\netcoreapp3.1\NewsSource\newsSource.json

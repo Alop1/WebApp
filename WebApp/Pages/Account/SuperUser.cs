@@ -13,7 +13,8 @@ namespace WebApp.Pages.Account
     public static class SuperUser
     {
         public static string login = "Joanna";
-        public static string password = "kotkidwa";
+        public static string password = @"/OQHaqND+rE3Uk7AT/5GbXsvdx0pXn7UpBqR6qht0bY=";        // SHA256
+
             
     }
 }
